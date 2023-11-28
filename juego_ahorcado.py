@@ -4,3 +4,17 @@ def reach_random_word(): # DEFINIMOS PALABRAS ALEATORIAS.
     words = ["ball", "cat", "dog", "fish", "software"] # MEDIANTE UN DICCIONARIO DE PALABRAS, SE DEFINEN MANUALMENTE AL MOMENTO DE DELETREAR CUALQUIER PALABRA AL AZAR.
     random_word = random.choice(words) # PALABRAS ALEATORIAS INGRESADAS AL DICCIONARIO DE PALABRAS.
     return random_word # RETORNA UNA PALABRA ALEATORIA.
+
+def show_board(secret_word, guessing_letters): # EN EL TABLERO SE MUESTRAN TODAS LAS PALABRAS ADIVINADAS YA DEFINIDAS POR LETRAS EN EL JUEGO.
+    board="" # TABLERO DE PALABRAS ADIVINADAS.
+
+    # LAS PALABRAS ADIVINADAS SE DEFINEN POR CARACTERES DISCRETAMENTE:
+
+    for letter in secret_word: # POR CADA LETRA EN UNA PALABRA SECRETA.
+        if letter in guessing_letters: # SI UNA LETRA DE UNA O MÁS ADIVINADAS, ACIERTA AL CAMPO VACÍO DE UNA LETRA.
+            board += letter # SUMA 1 ACIERTO POR LETRA.
+
+        else: # EN CASO CONTRARIO...
+            board += "_" # NO ACIERTA NADA.
+    print(board) # IMPRIME EL TABLERO DE PALABRAS.
+
