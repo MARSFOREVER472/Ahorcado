@@ -5,11 +5,11 @@
 
   - Las palabras a mencionar serían las siguientes:
     
-    - Ball.
-    - Cat.
-    - Dog.
-    - Fish.
-    - Software.
+    - Ball (Pelota).
+    - Cat (Gato).
+    - Dog (Perro).
+    - Fish (Pez).
+    - Software (Software).
       
 Link del proyecto: https://www.youtube.com/watch?v=KiqXnVgKs6A
 
