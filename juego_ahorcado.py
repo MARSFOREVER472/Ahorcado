@@ -1,7 +1,7 @@
 import random # VARIABLE ALEATORIA.
 
 def reach_random_word(): # DEFINIMOS PALABRAS ALEATORIAS.
-    words = ["computadores", "diseño", "empresariales", "inalambricas", "redes"] # MEDIANTE UN DICCIONARIO DE PALABRAS, SE DEFINEN MANUALMENTE AL MOMENTO DE DELETREAR CUALQUIER PALABRA AL AZAR.
+    words = ["año", "feliz", "navidad", "nuevo", "prospero"] # MEDIANTE UN DICCIONARIO DE PALABRAS, SE DEFINEN MANUALMENTE AL MOMENTO DE DELETREAR CUALQUIER PALABRA AL AZAR.
     random_word = random.choice(words) # PALABRAS ALEATORIAS INGRESADAS AL DICCIONARIO DE PALABRAS.
     return random_word # RETORNA UNA PALABRA ALEATORIA.
 
