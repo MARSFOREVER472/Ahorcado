@@ -8,7 +8,7 @@
     - **Ball (Pelota).**
     - **Cat (Gato).**
     - **Dog (Perro).**
-    - Fish (Pez).
+    - **Fish (Pez).**
     - Software (Software).
       
 Link del proyecto: https://www.youtube.com/watch?v=KiqXnVgKs6A
