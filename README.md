@@ -6,7 +6,7 @@
   - _Las palabras a mencionar serían las siguientes:_
     
     - **Ball (Pelota).**
-    - Cat (Gato).
+    - **Cat (Gato).**
     - Dog (Perro).
     - Fish (Pez).
     - Software (Software).
