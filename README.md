@@ -9,7 +9,7 @@
     - **Cat (Gato).**
     - **Dog (Perro).**
     - **Fish (Pez).**
-    - Software (Software).
+    - **Software (Software).**
       
 Link del proyecto: https://www.youtube.com/watch?v=KiqXnVgKs6A
 
