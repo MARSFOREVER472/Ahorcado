@@ -7,7 +7,7 @@
     
     - **Ball (Pelota).**
     - **Cat (Gato).**
-    - Dog (Perro).
+    - **Dog (Perro).**
     - Fish (Pez).
     - Software (Software).
       
